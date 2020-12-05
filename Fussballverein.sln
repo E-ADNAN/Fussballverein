@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fussballverein", "Fussballverein\Fussballverein.vcxproj", "{2B20A2DF-D358-46D9-842F-559C78CBBE64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B20A2DF-D358-46D9-842F-559C78CBBE64}.Debug|x64.ActiveCfg = Debug|x64
+		{2B20A2DF-D358-46D9-842F-559C78CBBE64}.Debug|x64.Build.0 = Debug|x64
+		{2B20A2DF-D358-46D9-842F-559C78CBBE64}.Debug|x86.ActiveCfg = Debug|Win32
+		{2B20A2DF-D358-46D9-842F-559C78CBBE64}.Debug|x86.Build.0 = Debug|Win32
+		{2B20A2DF-D358-46D9-842F-559C78CBBE64}.Release|x64.ActiveCfg = Release|x64
+		{2B20A2DF-D358-46D9-842F-559C78CBBE64}.Release|x64.Build.0 = Release|x64
+		{2B20A2DF-D358-46D9-842F-559C78CBBE64}.Release|x86.ActiveCfg = Release|Win32
+		{2B20A2DF-D358-46D9-842F-559C78CBBE64}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA8675DF-255A-4617-BB71-DF85CE5A6B85}
+	EndGlobalSection
+EndGlobal
